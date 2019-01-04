@@ -21,18 +21,18 @@ DATE | TIME | Format | Topic | Lecturer
 18/2/19 | 3-5pm | Lab | PLINK: HWE, Call rate, and QC | HG
 25/2/19 | 1-3pm | Lecture | Study designs in epidemiology and genetics | BS
 4/3/19 | 3-5pm | Lab | Risk measurement and interpretation | BS
-11/3/19 | 1-3pm | Lecture | Recombination and linkage analysis | JE
-18/3/19 | 3-5pm | Lab | Recombination and linkage analysis | JE
+11/3/19 | 8-10am | Lecture | Recombination and linkage analysis | JE
+18/3/19 | 10-12pm | Lab | Recombination and linkage analysis | JE
 25/3/19 | 1-3pm | Lecture | Linkage disequilibrium and LD mapping | BS
 1/4/19 | 3-5pm | Lab | Haploview, LDZoom | BS
 8/4/19 | 1-3pm | Lecture | Designs and analysis in quantitative trait genetics studies | PC
 15/4/19 | 3-5pm | Lab | T-test, ANNOVA, linear regression | PC
 22/4/19 | 1-3pm | Lecture | Designs and analysis of binary traits in genetics studies | PC
 29/4/19 | 3-5pm | Lab | Chi square, trend-test, logistic regression | PC
-6/5/19 | 1-3pm | Lecture | Genome-wide association study | JE
-13/5/19 | 3-5pm | Lab | Analysis & Visualization | JE
-20/5/19 | 1-3pm | Lecture | Confounders & Population Substructure | JE
-27/5/19 | 3-5pm | Lab | MDR and PCA | JE
+6/5/19 | 8-10am | Lecture | Genome-wide association study | JE
+13/5/19 | 10-12pm | Lab | Analysis & Visualization | JE
+20/5/19 | 8-10am | Lecture | Confounders & Population Substructure | JE
+27/5/19 | 10-12pm | Lab | MDR and PCA | JE
 3/6/19 | 1-3pm | Lecture | Mendelian randomization & meta-analysis | PC
 10/6/19 | 3-5pm | Lab | Meta-analysis and MR 3-5pm | Lab | PC
 17/6/19 | 1-3pm | Lecture | Genetic studies using next-generation sequencing technology | HG
