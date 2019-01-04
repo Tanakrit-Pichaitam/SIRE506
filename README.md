@@ -34,7 +34,7 @@ DATE | TIME | Format | Topic | Lecturer
 20/5/19 | 8-10am | Lecture | Confounders & Population Substructure | JE
 27/5/19 | 10-12pm | Lab | MDR and PCA | JE
 3/6/19 | 1-3pm | Lecture | Mendelian randomization & meta-analysis | PC
-10/6/19 | 3-5pm | Lab | Meta-analysis and MR 3-5pm | Lab | PC
+10/6/19 | 3-5pm | Lab | Meta-analysis and MR 3-5pm | PC
 17/6/19 | 1-3pm | Lecture | Genetic studies using next-generation sequencing technology | HG
 24/6/19 | 3-5pm | Lab | Variant prioritization software | HG
 22/4/19 | 1-3pm | Lecture | Analysis of transcriptome data | VC
