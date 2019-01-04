@@ -46,17 +46,17 @@ DATE | TIME | Format | Topic | Lecturer
 Scoring:
 --------
 
--   Attendance: 10%
--   Homework: 60%
--   Final Exam: 30%
+* Attendance: 10%
+* Homework: 60%
+* Final Exam: 30%
 
 Grading:
 --------
 
--   A > 90%
--   B+ [80-90)
--   B [70-80)
--   C < 70%
+* A > 90%
+* B+ [80-90)
+* B [70-80)
+* C < 70%
 
 Course coordinator:
 -------------------
@@ -68,11 +68,11 @@ Integrative Computational BioScience Center, Mahidol University
 
 Instructors
 ----------
-Dr. Dumrong Mairiant, PhD
-Dr. Harald Grove, PhD
-Dr. Jakris Eu-ahsunthornwattana, MD, PhD
-Dr. Pimphen Charoen, PhD
-Dr. Vardodom Charoensawan, PhD
+* Dr. Dumrong Mairiant, PhD (Biotech, NSTDA)
+* Dr. Harald Grove, PhD (Faculty of Medicine Siriraj Hospital, Mahidol University)
+* Dr. Jakris Eu-ahsunthornwattana, MD, PhD (Faculty of Medicine Ramathibodi Hospital, Mahidol University)
+* Dr. Pimphen Charoen, PhD (Faculty of Tropical Medicine, Mahidol University)
+* Dr. Vardodom Charoensawan, PhD (Faculty of Science, Mahidol University)
 
 Reference Books
 ------------------
