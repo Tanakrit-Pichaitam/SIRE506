@@ -1,8 +1,8 @@
-#Assignment 1
+# Assignment 1
 
-##Mr.Tanakrit Pichaitam  6137760SIMB/M
+## Mr.Tanakrit Pichaitam  6137760SIMB/M
 
-##Questions
+## Questions
 1.  What type of study design was used in this study?
 
 2.  What is the inclusion and exclusion criteria of the study population? Choose
