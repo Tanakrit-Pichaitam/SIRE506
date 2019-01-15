@@ -6,26 +6,36 @@ Mr.Tanakrit Pichaitam  6137760SIMB/M
 
 1.  What type of study design was used in this study?
 Answer
-
 ```
 ```
 
 2.  What is the inclusion and exclusion criteria of the study population? Choose
     two diseases mentioned in the paper and provide the detail of inclusion &
     exclusion criteria.
+    Answer
+```
+```
 
 3.  Was the age distribution of each disease group comparable to the age
     distribution of the control groups?
 
     1.  What statistical test can you use to compare the age distribution
         between the two groups?
-
+        Answer
+```
+```
     2.  Which disease groups had significantly different age of distribution
         than controls? Also provide the statistical evidence for the comparison.
+                Answer
+```
+```
 
     3.  Pick 1 disease with different age distribution between patients and
         control group. Discuss how the different in age distribution might
         affect the results of genetic association.
+                Answer
+```
+```
 
 4.  Besides age, were there any other confounding factor(s) in the design of
     this study?
