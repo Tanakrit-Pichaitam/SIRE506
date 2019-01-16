@@ -6,9 +6,7 @@ Mr.Tanakrit Pichaitam  6137760SIMB/M
 
 1.What type of study design was used in this study?
 
-```
-Case-control comparisons study
-
+```Case-control comparisons study
 ```
 
 2.What is the inclusion and exclusion criteria of the study population? Choose two diseases mentioned in the paper and provide the detail of inclusion & exclusion criteria.
