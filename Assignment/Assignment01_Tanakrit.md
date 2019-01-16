@@ -13,6 +13,8 @@ Case-control comparisons study
 2.What is the inclusion and exclusion criteria of the study population? Choose two diseases mentioned in the paper and provide the detail of inclusion & exclusion criteria.
 
 ```
+Bipolar disorder (BD; manic depressive illness)
+Type 2 diabetes (T2D)
 ```
 
 3.Was the age distribution of each disease group comparable to the age distribution of the control groups?
