@@ -51,21 +51,23 @@ type 1 diabetes (T1D) cases recruit from pediatric and adult diabetes clinics at
 6.1. What is the location of this SNP?
 
 ```
-Chromosome: 9p21, in SNP index: rs1333049 and in the position 22115503
+SNP in *MTHFD1L*
 ```
    
 6.2. Is there a gene nearby?
    
 ```
-Gene ALOX5AP at chromosome 13q12, Gene KIAA0992 at chromosome 4q32, Gene ROS1 at chromosome 6q22, Gene TAS2R50 at chromosome 12p13, Gene OR13G1 at chromosome 1q44, Gene PCSK9 a chromosome 1p32, Gene FactorV at chromosome 1q24, Gene Prothrombin at chromosome 11p11 and Gene PAI-1 at chromosome 7q22
+chromosome 9p21.3 genes for two cyclin dependent kinase inhibitors, CDKN2A (encoding p16INK4a) and CDKN2B
 ```
 
 6.3. Was the SNP known or has any biological mechanism to affect the gene function?
 
 ```
+encodes methylenetetrahydrofolate dehydrogenase (NADP+-dependent) 1-like, the mitochondrial isozyme of C1-tetrahydrofolate (THF) synthase
 ```
 
 6.4. Is it biologically plausible that we found this SNP associated with CAD?
 
 ```
+The possibility of a link between variants in *MTHFD1L* and CAD risk that MTHFD1L activity contributes to plasma homocysteine and defects in the MTHFD1L pathway may increase plasma homocysteine level
 ```
