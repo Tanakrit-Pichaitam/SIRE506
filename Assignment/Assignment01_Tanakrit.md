@@ -19,7 +19,6 @@ Type 2 diabetes (T2D)
 ```
 
 3.Was the age distribution of each disease group comparable to the age distribution of the control groups?
-
    3.1.What statistical test can you use to compare the age distribution between the two groups?
 
     ```
