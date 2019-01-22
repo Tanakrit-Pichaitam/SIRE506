@@ -13,6 +13,7 @@ Case-control comparisons study
 2.What is the inclusion and exclusion criteria of the study population? Choose two diseases mentioned in the paper and provide the detail of inclusion & exclusion criteria.
 
 ```
+two control groups was to assess possible bias in ascertaining control samples
 Bipolar disorder (BD; manic depressive illness)
 Type 2 diabetes (T2D)
 ```
@@ -52,6 +53,7 @@ Type 2 diabetes (T2D)
     ```
    
    6.2.Is there a gene nearby?
+   
     ```
     ```
 
